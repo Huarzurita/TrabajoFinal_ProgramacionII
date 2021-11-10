@@ -130,6 +130,9 @@
     <ClCompile Include="MyForm_principal.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Basura.h" />
+    <ClInclude Include="Baño.h" />
+    <ClInclude Include="Controller.h" />
     <ClInclude Include="Entidad.h" />
     <ClInclude Include="monigote.h" />
     <ClInclude Include="MyForm_creditos.h">
@@ -150,6 +153,7 @@
     <ClInclude Include="MyForm_principal.h">
       <FileType>CppForm</FileType>
     </ClInclude>
+    <ClInclude Include="Tacho.h" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="MyForm_creditos.resx">
